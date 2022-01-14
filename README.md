@@ -1,4 +1,4 @@
-# Front-end view of this application.
+# Frontend
 
 ![](image/youtube-api.png)
 
